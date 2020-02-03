@@ -4,4 +4,4 @@
 
 三、使用图片
 
-![]()
+![1](https://github.com/getidea98/FigurBed/raw/master/20190710_112827_835.png)
